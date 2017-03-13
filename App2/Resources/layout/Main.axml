@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/linearLayout1">
         <ImageButton
-            android:src="@android:drawable/mainmenu/bandage"
+            android:src="@android:drawable/bandage"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:id="@+id/imageButton1" />
