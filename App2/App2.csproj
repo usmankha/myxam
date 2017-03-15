@@ -77,28 +77,22 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mainmenu\bandage.png" />
+    <AndroidResource Include="Resources\drawable\bandage.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mainmenu\bandage.jpg" />
+    <AndroidResource Include="Resources\drawable\Dentist.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mainmenu\dandelion.jpg" />
+    <AndroidResource Include="Resources\drawable\doctor.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mainmenu\Dentist.jpg" />
+    <AndroidResource Include="Resources\drawable\Heart.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mainmenu\doctor.jpg" />
+    <AndroidResource Include="Resources\drawable\nurse.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mainmenu\Heart.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mainmenu\nurse.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\myButtonImage.png" />
+    <AndroidResource Include="Resources\drawable\tests.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
