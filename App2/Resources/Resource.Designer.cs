@@ -45,10 +45,28 @@ namespace App2
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int bandage = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int myButtonImage = 2130837505;
+			public const int Dentist = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int doctor = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int Heart = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int Icon = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int myButtonImage = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int nurse = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int tests = 2130837511;
 			
 			static Drawable()
 			{
