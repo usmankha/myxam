@@ -80,13 +80,13 @@
     <AndroidResource Include="Resources\drawable\bandage.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Dentist.png" />
+    <AndroidResource Include="Resources\drawable\dentist.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\doctor.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Heart.png" />
+    <AndroidResource Include="Resources\drawable\heart.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\nurse.png" />
