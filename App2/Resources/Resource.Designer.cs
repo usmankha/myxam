@@ -60,13 +60,10 @@ namespace App2
 			public const int Icon = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int myButtonImage = 2130837509;
+			public const int nurse = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int nurse = 2130837510;
-			
-			// aapt resource value: 0x7f020007
-			public const int tests = 2130837511;
+			public const int tests = 2130837510;
 			
 			static Drawable()
 			{
@@ -81,29 +78,32 @@ namespace App2
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050003
-			public const int imageButton3 = 2131034115;
+			// aapt resource value: 0x7f050001
+			public const int imageButton1 = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int imageButton2 = 2131034114;
 			
 			// aapt resource value: 0x7f050004
-			public const int imageButton4 = 2131034116;
+			public const int imageButton3 = 2131034116;
 			
-			// aapt resource value: 0x7f050006
-			public const int imageButton5 = 2131034118;
+			// aapt resource value: 0x7f050005
+			public const int imageButton4 = 2131034117;
 			
 			// aapt resource value: 0x7f050007
-			public const int imageButton6 = 2131034119;
+			public const int imageButton5 = 2131034119;
+			
+			// aapt resource value: 0x7f050008
+			public const int imageButton6 = 2131034120;
 			
 			// aapt resource value: 0x7f050000
 			public const int linearLayout1 = 2131034112;
 			
-			// aapt resource value: 0x7f050002
-			public const int linearLayout2 = 2131034114;
+			// aapt resource value: 0x7f050003
+			public const int linearLayout2 = 2131034115;
 			
-			// aapt resource value: 0x7f050005
-			public const int linearLayout3 = 2131034117;
-			
-			// aapt resource value: 0x7f050001
-			public const int myButton = 2131034113;
+			// aapt resource value: 0x7f050006
+			public const int linearLayout3 = 2131034118;
 			
 			static Id()
 			{
